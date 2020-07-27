@@ -1,0 +1,212 @@
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: 'Oswald', sans-serif;
+  font-size: 1.25rem;
+}
+
+                                  /*TOP CONTAINER*/
+.Section1 {
+  background-image: url(../images/Resort_Spa.jpg);
+  font-family: 'Cormorant Garamond', sans-serif;
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center;
+}
+
+
+#lbl.container-fluid {
+  padding: 3% 15% 15%;
+}
+
+.container-fluid {
+  padding: 0% 3% 30%;
+}
+
+.navbar {
+  padding-bottom: 3rem;
+}
+
+
+.logoImage {
+  width: 100px;
+  height: 100px;
+  display: block;
+  float: left;
+  border-radius: 50%;
+}
+
+.nav-item {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.heading {
+  font-size: 4rem;
+  color: #5A7FB5;
+  padding: 0% 0% 2%;
+}
+
+.Motto {
+  font-size: 1.5rem;
+  font-family: 'Montserrat', sans-serif;
+  color: black;
+  text-align: center;
+}
+
+.transbox {
+  background-color: #fff;
+  border: 1px solid black;
+  opacity: 0.7;
+}
+
+
+                                    /*MIDDLE CONTAINER*/
+
+.white-section {
+  background-color: #fff;
+  padding-top: 5%;
+  padding-bottom: 5%;
+  padding-left: 3%;
+  padding-right: 3%;
+}
+
+.coloured-section {
+  padding-top: 2%;
+  padding-bottom: 5%;
+  background: #5A7FB5;
+}
+
+.titlesForSections1 {
+  font-family: 'Great Vibes', cursive;
+  font-size: 3rem;
+  text-align: center;
+  color: #5A7FB5;
+}
+
+.titlesForSections2 {
+  padding-top: 2%;
+  font-family: 'Great Vibes', cursive;
+  font-size: 3rem;
+  text-align: center;
+  color: #fff;
+}
+
+.aboutImage {
+  width: 300px;
+  height: 300px;
+  display: block;
+  float: left;
+  border-radius: 25%;
+}
+
+.carousel-item {
+  padding-left: 30%;
+}
+
+.highlightImages {
+  height: 20%;
+  width: 60%;
+}
+.captions1 {
+  padding-right: 40%;
+  color: white;
+  text-align: center;
+  font-weight: bolder;
+  font-family: 'Roboto', sans-serif;
+  font-size: 1.5rem;
+}
+
+.captions2 {
+  padding-right: 40%;
+  color: white;
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+}
+
+.imagePerson {
+  display: block;
+  width: 200px;
+  height: 200px;
+  float: left;
+  border-radius: 50%;
+}
+
+.subTitle {
+  text-align: center;
+}
+
+.txt1 {
+  padding-left: 20%;
+  padding-bottom: 2%;
+}
+
+                                    /*BOTTOM CONTAINER*/
+.fa {
+  padding: 10px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  border-radius: 25%;
+}
+
+.fa:hover {
+  opacity: 0.7;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.fa-google {
+  background: #dd4b39;
+  color: white;
+}
+
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+
+.fa-instagram {
+  background: #125688;
+  color: white;
+}
+.linkTop:hover{
+  background-color: red;
+}
+.Bottom-container {
+  padding-left: 5%;
+  font-family: 'Cormorant Garamond', sans-serif;
+  font-size: 1.5rem;
+  color: #fff;
+  text-align: center;
+  background-image: url(../images/Background2.jpg);
+  color: #fff;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.getInTouch {
+  text-align: center;
+  padding-left: 20%;
+}
+
+.Social {
+  text-align: center;
+  padding-right: 30%;
+}
+
+.paraSize {
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+.titleHover:hover {
+  background: #5A7FB5;
+}
